@@ -1,7 +1,0 @@
-name: UnbreakableStoneBricks
-version: 1.0
-main: me.sajid.unbreakable.UnbreakableStoneBricks
-api-version: 1.20
-commands:
-  ubs:
-    description: Give Unbreakable Stone Bricks
